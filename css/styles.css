@@ -57,3 +57,17 @@ h1 {
   width: 200px;
   margin-right: 25px;
 }
+#presentacion{
+width: 569px;
+height: 569px;
+overflow: hidden;
+position: relative;
+}
+#presentacion iframe{
+  width: 960px;
+  height: 569px;
+  border: none;
+  position: absolute;
+  left: -195px;
+  top: 0;
+}
