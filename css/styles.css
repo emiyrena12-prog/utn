@@ -89,7 +89,7 @@ h1 {
 }
 
 #descripcion {
-  width: 487px;
+  width: 480px;
   height: 350px;
   border: 2px solid #ffffff;
   background-color: #abd6f0;
@@ -97,4 +97,14 @@ h1 {
   padding: 20px;
   box-sizing: border-box;
   color: #ffffff;
+}
+
+#descripcion h2{
+  font-size: 35px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#descripcion p{
+ font-size: 25px;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
