@@ -132,3 +132,6 @@ h1 {
  align-items: stretch;
  gap: 30px;
 }
+#logo img{
+  width: 280px;
+}
