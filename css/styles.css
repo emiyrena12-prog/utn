@@ -145,9 +145,9 @@ footer{
   justify-content: space-evenly;
 }
 
-#colegio{
+#producto{
   width: 33%;
-  background-color: red;
+  background-color:#90c6e8;
   padding: 5px;
 } 
 #colegio a{
