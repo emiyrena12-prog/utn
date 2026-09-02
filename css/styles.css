@@ -135,40 +135,23 @@ h1 {
 #logo img{
   width: 280px;
 }
-
-/*inicio del footer*/ 
-footer{   
-  background-color: #000;
-  color: rgb(255, 255, 255);
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+#cuadrologo {
+  width: 270px;
+  height: 300px;
+  background-color: #a9d4ed;
+  padding: 30px;
+  box-sizing: border-box;
+  margin-top: 30px;
+  color: white;
+  border: 2px color white;
 }
 
-#producto{
-  width: 33%;
-  background-color:#90c6e8;
-  padding: 10px;
-} 
-#producto a{
-color: #d4d4d4;
+#cuadrologo h2 {
+  font-size: 35px;
+  margin-bottom: 25px;
 }
 
-#recurso{
-  width: 33%;
-  background-color: #90c6e8;
-  color: #eaf6fc;
-  padding: 10px;
+#cuadrologo p {
+  font-size: 20px;
+  line-height: 1.5;
 }
-#recurso a{ 
-  color: #aaa;
-}
-#sobrenosotras{ 
-  padding: 10px;
-  width: 33%;
-  background-color: #90c6e8;
-}
-#sobrenosotras a{ 
-  color: #aaa;
-}
-/*fin del footer*/
