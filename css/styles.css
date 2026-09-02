@@ -160,15 +160,15 @@ color: #d4d4d4;
   color: #eaf6fc;
   padding: 5px;
 }
-#alumno a{ 
+#recurso a{ 
   color: #aaa;
 }
-#sociales{ 
+#sobrenosotras{ 
   width: 33%;
   background-color: lightblue;
   padding: 5px;
 }
-#sociales img{
-  width: 50px;
+#sobrenosotras a{ 
+  color: #aaa;
 }
 /*fin del footer*/
