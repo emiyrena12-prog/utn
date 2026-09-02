@@ -135,3 +135,40 @@ h1 {
 #logo img{
   width: 280px;
 }
+
+/*inicio del footer*/ 
+footer{   
+  background-color: #000;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+#colegio{
+  width: 33%;
+  background-color: red;
+  padding: 5px;
+} 
+#colegio a{
+color: #d4d4d4;
+}
+
+#alumno{
+  width: 33%;
+  background-color: yellow;
+  color: #aaa;
+  padding: 5px;
+}
+#alumno a{ 
+  color: #aaa;
+}
+#sociales{ 
+  width: 33%;
+  background-color: lightblue;
+  padding: 5px;
+}
+#sociales img{
+  width: 50px;
+}
+/*fin del footer*/
