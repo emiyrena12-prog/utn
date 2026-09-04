@@ -18,6 +18,7 @@ nav {
   gap: 0.5rem;
   border-bottom: solid 1px white;
   background-color:#90c6e8;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav a {
@@ -136,7 +137,7 @@ h1 {
   width: 280px;
 }
 
-/*inicio del footer*/ 
+
 footer{   
   background-color:white;
   color: rgb(255, 255, 255);
@@ -172,4 +173,26 @@ color: #d4d4d4;
 #sobrenosotras a{ 
   color: #aaa;
 }
-/*fin del footer*/
+
+#cuadrologo {
+  width: 270px;
+  height: 337px;
+  background-color: #a9d4ed;
+  padding: 30px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  color: white;
+  border: 2px solid #ffffff;
+  box-sizing: border-box;
+}
+
+#cuadrologo h2 {
+  font-size: 35px;
+ margin-bottom: 20px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#cuadrologo p {
+  font-size: 18px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
