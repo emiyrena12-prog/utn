@@ -199,3 +199,43 @@ color: #d4d4d4;
 #fotoabajo img{
 margin-bottom: 20px;
 }
+#fotoabajo{
+  margin-top: -390px;
+}
+#ropaindex{
+  width: 270px;
+  height: 337px;
+  background-color: #a9d4ed;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  margin-left: 10pxpx;
+  color: white;
+  border: 2px solid #6fa6c1;
+  box-sizing: border-box;
+}
+#ropaindex h3{
+  font-size: 14px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 15px;
+}
+#ropaindex img{
+  width: 220px;
+  height: 210px;
+  margin-left: 13px;
+  border: 2px dotted white;
+}
+#ropaindex p{
+ font-size: 13px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ margin-left: 15px;
+ margin-top: -6px;
+}
+#precio1 p{
+  font-size: 25px;
+  margin-top: -20px;
+}
+#precio1 img{
+  width: 90px;
+  height: 50px;
+}
