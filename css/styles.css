@@ -202,7 +202,7 @@ margin-bottom: 20px;
 #fotoabajo{
   margin-top: -390px;
 }
-#ropaindex{
+.ropaindex{
   width: 270px;
   height: 337px;
   background-color: #a9d4ed;
@@ -214,18 +214,18 @@ margin-bottom: 20px;
   border: 2px solid #6fa6c1;
   box-sizing: border-box;
 }
-#ropaindex h3{
+.ropaindex h3{
   font-size: 14px;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   margin-left: 15px;
 }
-#ropaindex img{
+.ropaindex img{
   width: 220px;
   height: 210px;
   margin-left: 13px;
   border: 2px dotted white;
 }
-#ropaindex p{
+.ropaindex p{
  font-size: 13px;
  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  margin-left: 15px;
