@@ -206,13 +206,14 @@ margin-bottom: 20px;
   width: 270px;
   height: 337px;
   background-color: #a9d4ed;
-  padding: 10px;
+  padding: 6px;
   box-sizing: border-box;
   margin-top: 5px;
-  margin-left: 10pxpx;
+  margin-left: 25px;
   color: white;
   border: 2px solid #6fa6c1;
-  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
 }
 .ropaindex h3{
   font-size: 14px;
