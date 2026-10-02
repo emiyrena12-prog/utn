@@ -30,6 +30,7 @@ nav a {
   text-align: center;
   text-decoration: none;
   background-color: #abd6f0;
+  color: #000;
 }
 
 nav a[aria-current='page'] {
@@ -235,4 +236,54 @@ margin-bottom: 20px;
 #precio1 p{
   font-size: 25px;
   margin-top: -20px;
+}
+#descripcionverano{
+  color: white;
+  background-color:#90c6e8;
+  width: 100px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+#descripcionverano h2 p{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+#verano header div {
+  background-color: rgb(244, 206, 151);
+}
+#verano header img {
+  border-color: sandybrown;
+}
+#presentacionverano {
+  width: 220px;
+  height: 308px;
+  margin-right: 25px;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+  border: 2px solid sandybrown;
+}
+#presentacionverano iframe {
+  width: 960px;
+  height: 569px;
+  border: none;
+  position: absolute;
+  transform: scale(0.584);
+  transform-origin: top left;
+  left: -170px;
+  top: 0;
+}
+#verano nav{
+  background-color:rgb(242, 172, 111);
+}
+#verano nav a {
+  display: inline-block;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  border: solid 1px rgb(242, 190, 122);
+  text-align: center;
+  text-decoration: none;
+  background-color:rgb(244, 206, 151);
+  color: #000;
 }
