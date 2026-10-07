@@ -44,7 +44,7 @@ nav a[aria-current='page'] {
 
 main {
   padding: 1rem;
-  
+  background-color:#fffcfc;
 }
 
 h1 {
@@ -93,7 +93,7 @@ h1 {
 #descripcion {
   width: 480px;
   height: 350px;
-  border: 2px solid #ffffff;
+  border: 2px solid white;
   background-color: #abd6f0;
   margin: 30px 0;
   padding: 20px;
@@ -239,10 +239,16 @@ margin-bottom: 20px;
 }
 #descripcionverano{
   color: white;
-  width: 100px;
+  width: 700px;
   margin-left: 10px;
   margin-top: 10px;
-}
+  
+ }
+ #descripcionverano h2 p{
+ margin-top: 10px;
+ margin-left: 10px;
+ }
+ 
 
 #verano header div {
   background-color: rgb(244, 206, 151);
