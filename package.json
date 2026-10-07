@@ -1,4 +1,4 @@
-{
+ {
   "scripts": {
     "start": "servor --reload"
   },
@@ -6,3 +6,4 @@
     "servor": "^4.0.2"
   }
 }
+
