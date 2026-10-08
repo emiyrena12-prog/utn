@@ -279,24 +279,13 @@ margin-bottom: 20px;
 }
 #verano{
   background-color: antiquewhite;
-  color: antiquewhite;
-}
 
-
-#verano header div {
-  background-color: rgb(244, 206, 151);
 }
-#verano header img {
-  border-color: sandybrown;
+#primavera header div {
+  background-color:pink;
 }
-#presentacionverano {
-  width: 220px;
-  height: 308px;
-  margin-right: 25px;
-  overflow: hidden;
-  position: relative;
-  flex-shrink: 0;
-  border: 2px solid sandybrown;
+#primavera header img {
+  border-color: rgb(244, 134, 172)
 }
 #presentacionprimavera {
   width: 220px;
@@ -305,7 +294,7 @@ margin-bottom: 20px;
   overflow: hidden;
   position: relative;
   flex-shrink: 0;
-  border: 2px solid rgb(244, 96, 209);
+  border: 2px solid rgb(244, 134, 172);
 }
 #presentacionprimavera iframe {
   width: 960px;
@@ -318,21 +307,65 @@ margin-bottom: 20px;
   top: 0;
 }
 #primavera nav{
-  background-color:rgb(242, 172, 111);
+  background-color: rgb(248, 151, 167);
 }
 #primavera nav a {
   display: inline-block;
   min-width: 9rem;
   padding: 0.5rem;
   border-radius: 0.2rem;
-  border: solid 1px rgb(242, 190, 122);
+  border: solid 1px rgb(249, 168, 217);
   text-align: center;
   text-decoration: none;
-  background-color:rgb(244, 206, 151);
+  background-color:rgb(255, 195, 224);
   color: #000;
 }
 #primavera{
-  background-color: antiquewhite;
-  color: antiquewhite;
+  background-color: rgb(250, 236, 244);
+
+}
+#presentacionotono {
+  width: 220px;
+  height: 308px;
+  margin-right: 25px;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+  border: 2px solid rgb(255, 204, 0);
+}
+
+#presentacionotono iframe {
+  width: 960px;
+  height: 569px;
+  border: none;
+  position: absolute;
+  transform: scale(0.584);
+  transform-origin: top left;
+  left: -170px;
+  top: 0;
+}
+#otono header div {
+  background-color:rgb(253, 255, 192);
+}
+#otono header img {
+  border-color: rgb(255, 204, 0)
+}
+
+#otono nav{
+  background-color:rgb(255, 204, 0);
+}
+#otono nav a {
+  display: inline-block;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  border: solid 1px rgb(255, 204, 0);
+  text-align: center;
+  text-decoration: none;
+  background-color:rgb(248, 253, 113);
+  color: #000;
+}
+#otono{
+  background-color: rgb(250, 236, 244);
 }
 
