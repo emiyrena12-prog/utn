@@ -368,4 +368,37 @@ margin-bottom: 20px;
 #otono{
   background-color: rgb(250, 236, 244);
 }
+#lineav img{
+  width: 800px;
+}
+.ropaindexv{
+  width: 260px;
+  height: 310px;
+  background-color: #a9d4ed;
+  padding: 6px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  margin-left: 25px;
+  color: white;
+  border: 2px solid #6fa6c1;
+  display: inline-block;
+  vertical-align: top;
+}
+.ropaindexv h3{
+  font-size: 14px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 15px;
+}
+.ropaindexv img{
+  width: 200px;
+  height: 180px;
+  border: 2px dotted white;
+  margin-left: 20px;
+}
+.ropaindexv p{
+ font-size: 12px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ margin-left: 15px;
+ margin-top: -6px;
+}
 
