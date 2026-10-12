@@ -402,3 +402,11 @@ margin-bottom: 20px;
  margin-top: -6px;
 }
 
+#logolineav{
+  display: flex;
+ align-items: stretch;
+}
+
+#logolineav img{
+  width: 200px;
+}
