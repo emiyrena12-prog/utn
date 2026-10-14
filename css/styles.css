@@ -404,9 +404,12 @@ margin-bottom: 20px;
 
 #logolineav{
   display: flex;
- align-items: stretch;
+
 }
 
-#logolineav img{
-  width: 200px;
+#lineav img{
+  width: 800px;
+}
+#logov img{
+ width: 250px;
 }
