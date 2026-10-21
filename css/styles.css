@@ -435,3 +435,8 @@ height: 190px;
   position: absolute;
   top: 1295px;
 }
+
+#videovropav iframe{
+ width: 315; 
+ height:576;
+}
