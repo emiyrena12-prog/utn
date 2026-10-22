@@ -434,9 +434,28 @@ height: 190px;
 #sambavideov{
   position: absolute;
   top: 1295px;
+  margin-bottom: 10px;
 }
 
 #videovropav iframe{
  width: 315; 
  height:576;
+}
+#ropaprimavera{
+  margin-top: 60px;
+}
+#logolineap{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+#lineap img{
+  width: 850px;
+  margin-top: 60px;
+}
+#logolineap{
+height: 190px;
+}
+#logop img{
+ width: 290px;
 }
