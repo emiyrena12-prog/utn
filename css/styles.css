@@ -366,7 +366,7 @@ margin-bottom: 20px;
   color: #000;
 }
 #otono{
-  background-color: rgb(250, 236, 244);
+  background-color: rgb(253, 255, 192);
 }
 #lineav img{
   width: 800px;
@@ -528,4 +528,8 @@ form input {
   margin-left: 20px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   margin-top: 5px;
+}
+#lineao img{
+  width: 850px;
+  margin-top: 60px;
 }
